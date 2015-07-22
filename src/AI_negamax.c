@@ -17,7 +17,7 @@ UI64 quiescence_pb_rank=0xFFULL<<48;
 UI64 diag1=0,diag2=0;
 UI32 PV[20];
 
-int USE_TRANSPOSITION_TABLE=0;
+int USE_TRANSPOSITION_TABLE=1;
 
 int file_n[64];
 
