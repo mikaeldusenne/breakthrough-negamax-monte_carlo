@@ -30,3 +30,7 @@ Installation:
 
 run `make negamax` or `make mc` from the project root directory to create the executable with the desired AI.
 
+## Playing
+
+The ncurse GUI will let you use the arrows of your keyboard to navigate, select a pawn to move with space and select a destination among the highlighted options and validate with space again.
+
